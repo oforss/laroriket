@@ -1,0 +1,144 @@
+body {
+  margin: -0px;
+  font-family: sans-serif;
+  color: #444;
+}
+
+nav {
+  float: right;
+  padding: 0 1em;
+  white-space: nowrap;
+}
+
+a {
+  text-decoration: none;
+  color: #446;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #646;
+}
+
+img {
+  border: 4px ridge #446;
+}
+
+/* -- Header -- */
+
+#header {
+  padding: 1.5em;
+  margin-top: -2em;
+  background-color: #eef;
+  border-bottom: solid 2px navy;
+}
+
+#title {
+  margin-bottom: -2em;
+}
+
+#main-title a {
+  text-shadow: black 1px 1px 3px;
+}
+
+#main-title a:hover {
+  text-decoration: none;
+  text-shadow: black 1px 1px 3px;
+  color: #446;
+}
+
+#sub-title {
+  margin-top: -1.6em;
+  margin-left: 1em;
+  font-family: serif;
+  font-style: italic;
+}
+
+#top-nav ul li {
+  list-style-type: none;
+  display: inline;
+}
+
+#top-nav a {
+  font-family: serif;
+  margin: 5px;
+  padding: 2px 10px 2px 10px;
+  background-color: #dde;
+}
+
+/* -- Container -- */
+
+#border {
+  height: 62px;
+  padding: 0em;
+  background-image:url('bord_mini_leaves_013.gif');
+  background-repeat:repeat-x;
+  background-position: top left;
+}  
+
+#main {
+  margin: 1em;
+  margin-top: 2em;
+  padding-bottom: 2em;
+}
+
+/* -- Footer -- */
+
+#footer {
+  padding: 0.5em;
+  color: #333;
+  font-size: 65%;
+}
+
+#footer .right {
+  width: 50%;
+  float: right;
+  margin-right: -1em;
+}
+
+#footer .left {
+  float: left;
+  text-align: right;
+  margin-left: -1em;
+  width: 50%;
+}
+
+/* -- Contact form - */
+
+div.row {
+  clear: both;
+  padding-top: 10px;
+}
+
+div.row span.label {
+  float: left;
+  width: 100px;
+  text-align: right;
+}
+
+div.row span.field {
+  float: left;
+  width: 335px;
+  text-align: left;
+}
+
+div.button {
+  clear: both;
+  margin-top: 10px;
+  margin-left: 100px;
+  float: left;
+}
+
+/* -- Random -- */
+
+.centered {
+  text-align: center;
+}
+
+.no-border {
+  border-style: none;
+}
+
+fieldset {
+  width: 500px;
+}
