@@ -18,7 +18,7 @@ class Laroriket < Padrino::Application
     }
   end
 
-  configure :deployment do
+  configure :production do
     set :delivery_method, :smtp => {
       :address        => "smtp.sendgrid.net",
       :port           => "25",
