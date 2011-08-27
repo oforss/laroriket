@@ -14,7 +14,7 @@ gem 'haml'
 
 
 # Padrino
-gem 'padrino', '0.10.0'
+gem 'padrino'
 # Padrino EDGE
 # gem 'padrino', :git => 'git://github.com/padrino/padrino-framework.git'
 #

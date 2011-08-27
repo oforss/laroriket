@@ -5,20 +5,22 @@
   %strong Lyhyesti:
   %br/
   Läroriket antaa ruotsin kursseja kaikilla tasoilla käyttäen pedogogisia menetelmiä, jotka ovat hauskoja ja tehokkaita sekä opettajien jatkokoulutus (ruotsiksi).
+
+/
   %br/
   Jos on kysyttävää täytä nimesi ja osoitteesi tähän, vastaan mahdollisimman pian.
 
-
--form_tag '/contact/send' do |f| 
-  -field_set_tag do
-    .row
-      %span.label= label_tag "Nimi"
-      %span.field= text_field_tag :name, :value => params[:name]
-    .row
-      %span.label= label_tag "Sähköposti"
-      %span.field= text_field_tag :email, :value => params[:email]
-    .row
-      %span.label= label_tag "Viesti"
-      %span.field= text_area_tag :body, :value => params[:body], :cols => 35, :rows => 8
-    .button
-      = submit_tag "Lähetä" 
+/
+  -form_tag '/contact/send' do |f| 
+    -field_set_tag do
+      .row
+        %span.label= label_tag "Nimi"
+        %span.field= text_field_tag :name, :value => params[:name]
+      .row
+        %span.label= label_tag "Sähköposti"
+        %span.field= text_field_tag :email, :value => params[:email]
+      .row
+        %span.label= label_tag "Viesti"
+        %span.field= text_area_tag :body, :value => params[:body], :cols => 35, :rows => 8
+      .button
+        = submit_tag "Lähetä" 

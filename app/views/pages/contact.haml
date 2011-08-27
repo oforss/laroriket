@@ -2,16 +2,17 @@
 
 %p Har du frågor eller önskemål om kurser i svenska eller kurser för lärare? Fyll då bara i de uppgifter som behövs så kontaktar jag dig.
 
--form_tag '/contact/send' do |f| 
-  -field_set_tag do
-    .row
-      %span.label= label_tag "Namn"
-      %span.field= text_field_tag :name, :value => params[:name]
-    .row
-      %span.label= label_tag "Epost"
-      %span.field= text_field_tag :email, :value => params[:email]
-    .row
-      %span.label= label_tag "Meddelande"
-      %span.field= text_area_tag :body, :value => params[:body], :cols => 35, :rows => 8
-    .button
-      = submit_tag "Skicka" 
+/
+  -form_tag '/contact/send' do |f| 
+    -field_set_tag do
+      .row
+        %span.label= label_tag "Namn"
+        %span.field= text_field_tag :name, :value => params[:name]
+      .row
+        %span.label= label_tag "Epost"
+        %span.field= text_field_tag :email, :value => params[:email]
+      .row
+        %span.label= label_tag "Meddelande"
+        %span.field= text_area_tag :body, :value => params[:body], :cols => 35, :rows => 8
+      .button
+        = submit_tag "Skicka"
