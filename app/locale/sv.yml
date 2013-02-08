@@ -26,8 +26,8 @@ sv:
     h3: "Kurser för lärare"
     h4: "Glimtar ur en lärarfortbildning"
 
-    p1: "På bara 6 lektioner får du nosa på svenska språket, du lär du dig använda de vanligaste hälsningsfraserna, du lär dig presentera dig, ge uppmaningar, ställa frågor och ge svar."
-    p2: "Du lär du dig använda hälsningsfraser, du lär dig presentera dig, ge uppmaningar, ställa frågor och ge svar. Du lär dig också något om den svenska grammatiken, t.ex. hur verb, substantiv och adjektiv ser ut och hur de böjs."
+    p1: "På bara 6 lektioner får du nosa på svenska språket, du lär dig använda de vanligaste hälsningsfraserna, du lär dig presentera dig, ge uppmaningar, ställa frågor och ge svar."
+    p2: "Du lär dig använda hälsningsfraser, du lär dig presentera dig, ge uppmaningar, ställa frågor och ge svar. Du lär dig också något om den svenska grammatiken, t.ex. hur verb, substantiv och adjektiv ser ut och hur de böjs."
     p3: "Du kan förstå och uttrycka dig på svenska både i tal och i skrift. Du får ett basordförråd och en basgrammatik så att du klarar dig i en svensk omgivning."
 
     p4h: "Musik, rytm och rörelse"
@@ -75,10 +75,10 @@ sv:
 
     l1: "Forskningscentralen för de inhemska språken"
     l2: "Svenska språkrådet"
-    l3: "Utbildningsprogram"
+    l3: "Vilken är din inlärningsstil?"
     l4: "Lärstilar"
     l5: "Multipla intelligenser"
-    l6: "Barbara Pashing"
+    l6: "Barbara Prashnig"
     l7: "Svenska listan"
     l8: "Swedish group"
     l9: "Vi studerar svenska"
@@ -95,4 +95,12 @@ sv:
     l19_1: "lär dig svenska"
     l19_2: "lär dig finska"
     l20: "Scrabbleförbundet"
-    l21: "Betapet" 
+    l21: "Betapet"
+
+    l19_name: "www.vnf.fi/forsta-sidan/"
+    l19_1_name: "www.vnf.fi/studier/ruotsia-ruotsiksi/"
+    l19_2_name: "www.vnf.fi/studier/ett-ar-pa-finska/"
+
+  footer:
+    f1: "Diplomerad suggestopedilärare i svenska"
+    f2: "Lärarfortbildare"

@@ -7,8 +7,8 @@ fi:
     lang: "på svenska"
 
   index:
-    h1: "Läroriket"
-    h2: "Opettavaista"
+    h1: 'Läroriket – "Opinmaa"'
+    h2: "Lärorikt – Opettavaista"
 
     p1_1: "sinulle, joka haluat oppia ruotsia nopeasti ja vaivattomasti"
     p1_2: "hyville opettajille, jotka haluavat entisestään parantaa opettajantaitojaan"
@@ -78,7 +78,7 @@ fi:
     l3: "Oppimistavat"
     l4: "Lärstilar"
     l5: "Multipla intelligenser"
-    l6: "Barbara Pashing"
+    l6: "Barbara Prashnig"
     l7: "Svenska listan"
     l8: "Swedish group"
     l9: "Vi studerar svenska"
@@ -96,3 +96,11 @@ fi:
     l19_2: "opi suomea"
     l20: "Scrabbleförbundet"
     l21: "Betapet"
+
+    l19_name: "www.vnf.fi/aloitussivu"
+    l19_1_name: "www.vnf.fi/opintolinjat/ruotsia-ruotsiksi"
+    l19_2_name: "www.vnf.fi/opintolinjat/vuosi-suomeksi"
+
+  footer:
+    f1: "Sertifioitu ruotsinopettaja, suggestopedinen kieltenopetus"
+    f2: "Kouluttaja, opettajien jatkokoulutus"
