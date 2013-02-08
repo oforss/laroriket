@@ -1,41 +1,41 @@
-%h2 Språkkurser
+%h2= t("courses.h1")
 
 %p
-  %strong 6 x 45 minuter
+  %strong= "6 x 45 #{t("courses.minutes")}"
   %br/
-  På bara 6 lektioner får du nosa på svenska språket, du lär du dig använda de vanligaste hälsningsfraserna, du lär dig presentera dig, ge uppmaningar, ställa frågor och ge svar.
+  = t("courses.p1")
 
 %p
-  %strong 20 x 45 minuter (4 dagar)
+  %strong= "20 x 45 #{t("courses.minutes")} (4 #{t("courses.days")})"
   %br/
-  Du lär du dig använda hälsningsfraser, du lär dig presentera dig, ge uppmaningar, ställa frågor och ge svar. Du lär dig också något om den svenska grammatiken, t.ex. hur verb, substantiv och adjektiv ser ut och hur de böjs.
+  = t("courses.p2")
 
 %p
-  %strong 90 x 45 minuter (3 veckor)
+  %strong= "90 x 45 #{t("courses.minutes")} (3 #{t("courses.weeks")})"
   %br/
-  Du kan förstå och uttrycka dig på svenska både i tal och i skrift. Du får ett basordförråd och en basgrammatik så att du klarar dig i en svensk omgivning.
+  = t("courses.p3")
 
-%h2 Glimtar ur ett klassrum
+%h2= t("courses.h2")
 
 %p
-  %strong Musik, rytm och rörelse
+  %strong= t("courses.p4h")
   %br/
-  Sång och musik i undervisningen gör att vi lär oss snabbare. Språket sätter sig i kroppen tillsammans med rytm och rörelser, och det stannar garanterat längre kvar än om vi pluggar på traditionellt sätt!
+  = t("courses.p4")
 
 %p
-  %strong Spel och lekar
+  %strong= t("courses.p5h")
   %br/
-  I olika slags pedagogiska spel övas grammatik på ett snillrikt sätt så att inlärningen sker lekande lätt, liksom i förbifarten. Rörelselekar och andra lekar är oslagbara vid ord- och grammatikinlärning.
+  = t("courses.p5")
 
 %p
-  %strong Svensk språkmiljö
+  %strong= t("courses.p6h")
   %br/
-  Redan från första lektionen börjar vi prata och svenskan används aktivt i grupperna från början till slut under alla kurser. 
+  = t("courses.p6")
 
 %p
-  %strong Variation
+  %strong= t("courses.p7h")
   %br/ 
-  Genom variation hålls vi hela tiden på alerten, vi lär med alla våra sinnen och når högsta möjliga resultat.
+  = t("courses.p7")
 
 %span#kursbilder
   = image_tag "bild3.jpg", :height => 340, :width => 450
@@ -45,28 +45,28 @@
 %hr/
 %br/
 
-%h2 Kurser för lärare
+%h2= t("courses.h3")
 
 %p
-  %strong Piffa upp!
+  %strong= t("courses.p8h")
   %br/ 
-  Vill du få tips och råd om hur du kan piffa upp din undervisning och få dina elever att lära sig bättre?
+  = t("courses.p8_1")
   %br/ 
-  Vill du se hur de effektiva metoderna TPR och suggestopedi fungerar? 
+  = t("courses.p8_2")
   %br/ 
-  Vill du göra enkla hjälpmedel för en intressant och effektiv inlärningsmiljö?
+  = t("courses.p8_3")
   %br/ 
-  Kontakta mig för en 1-3 dagars fortbildning på din skola.
+  = t("courses.p8_4")
 
 %p
-  %strong Bli suggestopedilärare 
-  %br/
-  Inom Suggestopediakademin kan du utbilda dig till suggestopedilärare på kurser i Finland eller i Sverige. Utbildningen består av tre kurser, kallade steg 1-3. Efter att du fått diplom som suggestopedilärare kan du delta i steg 4 och utveckla dina kunskaper för undervisning på verkligt höga nivåer.
+  %strong= t("courses.p9h")
+  %br/  
+  = t("courses.p9")
 
-%h2 Glimtar ur en lärarfortbildning
+%h2= t("courses.h4")
 
-%p Du får lära dig grunderna i portugisiska och du ser hur effektiv metoden är! Du får lära dig tankegångarna i suggestopedisk teori, träna på olika moment i den s.k. suggestopediska cykeln: introduktioner,  läsning till musik, olika slag av aktiveringar och mjuka övergångar mellan dem och du får själv demonstrera inför övriga kursdeltagare vad du lärt dig under de 12 dagar din utbildning har tagit.
+%p= t("courses.p10")
 
-%p.link= link_to "Mer information", "http://www.allasinnen.se/index.php?section=0&page=9"
+%p.link= link_to t("courses.more_information"), "http://www.allasinnen.se/index.php?section=0&page=9"
 
 .centered= image_tag "isberget.jpg", :width => 600, :height => 450

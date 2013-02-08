@@ -1,0 +1,98 @@
+sv:
+  header:
+    start: "hem"
+    courses: "kurser"
+    about: "om mig"
+    links: "länkar"
+    lang: "suomeksi"
+
+  index:
+    h1: "Läroriket"
+    h2: "Lärorikt"
+
+    p1_1: "finns till för dig som vill lära dig svenska snabbt och enkelt"
+    p1_2: "finns till för att hjälpa goda lärare bli bättre lärare"
+    p2_1: "Om vi förstår hur hjärnan fungerar kan vi effektivt både lära in och lära ut."
+    p2_2: "Om vi låter hjärnan lära sig på det naturliga sättet blir hela processen lekande lätt!"
+
+  courses:
+    minutes: "minuter"
+    days: "dagar"
+    weeks: "veckor"
+    more_information: "Mer information"
+
+    h1: "Språkkurser"
+    h2: "Glimtar ur ett klassrum"
+    h3: "Kurser för lärare"
+    h4: "Glimtar ur en lärarfortbildning"
+
+    p1: "På bara 6 lektioner får du nosa på svenska språket, du lär du dig använda de vanligaste hälsningsfraserna, du lär dig presentera dig, ge uppmaningar, ställa frågor och ge svar."
+    p2: "Du lär du dig använda hälsningsfraser, du lär dig presentera dig, ge uppmaningar, ställa frågor och ge svar. Du lär dig också något om den svenska grammatiken, t.ex. hur verb, substantiv och adjektiv ser ut och hur de böjs."
+    p3: "Du kan förstå och uttrycka dig på svenska både i tal och i skrift. Du får ett basordförråd och en basgrammatik så att du klarar dig i en svensk omgivning."
+
+    p4h: "Musik, rytm och rörelse"
+    p4: "Sång och musik i undervisningen gör att vi lär oss snabbare. Språket sätter sig i kroppen tillsammans med rytm och rörelser, och det stannar garanterat längre kvar än om vi pluggar på traditionellt sätt!"
+
+    p5h: "Spel och lekar"
+    p5: "I olika slags pedagogiska spel övas grammatik på ett snillrikt sätt så att inlärningen sker lekande lätt, liksom i förbifarten. Rörelselekar och andra lekar är oslagbara vid ord- och grammatikinlärning."
+
+    p6h: "Svensk språkmiljö"
+    p6: "Redan från första lektionen börjar vi prata och svenskan används aktivt i grupperna från början till slut under alla kurser."
+
+    p7h: "Variation"
+    p7: "Genom variation hålls vi hela tiden på alerten, vi lär med alla våra sinnen och når högsta möjliga resultat."
+
+    p8h: "Piffa upp!"
+    p8_1: "Vill du få tips och råd om hur du kan piffa upp din undervisning och få dina elever att lära sig bättre?"
+    p8_2: "Vill du se hur de effektiva metoderna TPR och suggestopedi fungerar?"
+    p8_3: "Vill du göra enkla hjälpmedel för en intressant och effektiv inlärningsmiljö?"
+    p8_4: "Kontakta mig för en 1-3 dagars fortbildning på din skola."
+
+    p9h: "Bli suggestopedilärare"
+    p9: "Inom Suggestopediakademin kan du utbilda dig till suggestopedilärare på kurser i Finland eller i Sverige. Utbildningen består av tre kurser, kallade steg 1-3. Efter att du fått diplom som suggestopedilärare kan du delta i steg 4 och utveckla dina kunskaper för undervisning på verkligt höga nivåer."
+
+    p10: "Du får lära dig grunderna i portugisiska och du ser hur effektiv metoden är! Du får lära dig tankegångarna i suggestopedisk teori, träna på olika moment i den s.k. suggestopediska cykeln: introduktioner,  läsning till musik, olika slag av aktiveringar och mjuka övergångar mellan dem och du får själv demonstrera inför övriga kursdeltagare vad du lärt dig under de 12 dagar din utbildning har tagit."
+
+  about:
+    h: "Om mig"
+
+    p1: "Med en utbildning som lärare i svenska som främmande språk men också som grundskollärare i bakfickan har jag under många år funderat över inlärning och hur den sker när den är som bäst."
+    p2: "Om man upplever harmoni och känner sig glad glömmer man bort att man befinner sig i en inlärningssituation och lär bättre. Därför tycker jag det viktigaste för en lärare är att skapa en stimulerande miljö och en god stämning i klassen och på så sätt locka fram spontaniteten hos var och en."
+    p3: "Numera är jag diplomerad suggestopedilärare och har gått i lära hos professor Lozanov för att även ha rätt att ge lärarfortbildningar. Detta gör jag tillsammans med mina kolleger Anna Cramér och Lonny Gold inom Suggestopediakademin, en liten organisation där vi fortbildar lärare både i Finland och i Sverige."
+    p4: "Jag bor i södra Finland men ger kurser i hela Finland, i Sverige och i Norge."
+    p5: "Just nu arbetar jag som lärare i svenska som främmande språk vid Västra Nylands folkhögsskola i min hemstad Karis."
+
+  links:
+    h1: "Länkar"
+    h2: "Om språkvård"
+    h3: "Pedagogiska sajter"
+    h4: "Diskussionsgrupper"
+    h5: "Ordlistor"
+    h6: "Länksamlingar"
+    h7: "Mina kolleger"
+    h8: "Min arbetsplats"
+    h9: "Min främsta hobby"
+
+    l1: "Forskningscentralen för de inhemska språken"
+    l2: "Svenska språkrådet"
+    l3: "Utbildningsprogram"
+    l4: "Lärstilar"
+    l5: "Multipla intelligenser"
+    l6: "Barbara Pashing"
+    l7: "Svenska listan"
+    l8: "Swedish group"
+    l9: "Vi studerar svenska"
+    l10: "Lexin"
+    l11: "Bildlexikon"
+    l12: "Svensk-finsk-svensk ordbok"
+    l13: "En länksamling för sfi"
+    l14: "Inkeris länksamling"
+    l15: "Alla Sinnen, Sverige"
+    l16: "Lonny Gold"
+    l17: "Senja opettaa sinulle ruotsia"
+    l18: "Galimatias"
+    l19: "Västra Nylands folkhögskola"
+    l19_1: "lär dig svenska"
+    l19_2: "lär dig finska"
+    l20: "Scrabbleförbundet"
+    l21: "Betapet" 

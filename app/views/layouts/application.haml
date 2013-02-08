@@ -9,12 +9,11 @@
     #header
       %nav#top-nav
         %ul
-          %li= link_to "start",        url_for(:index)
-          %li= link_to "kurser",       url_for(:courses)
-          %li= link_to "om mig",       url_for(:about)
-          -# %li= link_to "kontakta mig", url_for(:contact)
-          %li= link_to "länkar",       url_for(:links)
-          %li= link_to "suomeksi",     url_for(:suomeksi)
+          %li= link_to t("header.start"),   url_for(:index)
+          %li= link_to t("header.courses"), url_for(:courses)
+          %li= link_to t("header.about"),   url_for(:about)
+          %li= link_to t("header.links"),   url_for(:links)
+          %li= link_to t("header.lang"),    url_for(:suomeksi)
       #title
         %h1#main-title= link_to "Läroriket", url_for(:index)
         %h4#sub-title= pick_random_slogan

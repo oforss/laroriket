@@ -28,9 +28,21 @@ Laroriket.helpers do
       "Ge glädje och kunskap till dina elever",
       "Hitta glädjen i din lärarroll",
       "Det är lätt att lära sig",
-      "Med de rätta metoderna kan vår hjärna uträtta underverk"
+      "Med de rätta metoderna kan vår hjärna uträtta underverk",
+      "Kaikki opimme eri tavoin – millä tavoin sinä opit, entä oppilaasi?",
+      "Löydä opettamisen ilo",
+      "Opettavaista sekä opettajille että oppijoille",
+      "Hevosen voi johdattaa veden äärelle, muttei koskaan pakottaa juomaan"
     ]
 
     return slogans[rand(slogans.length)]
+  end
+
+  def swap_language
+    if I18n.locale == :sv
+      I18n.locale = :fi
+    else
+      I18n.locale = :sv
+    end
   end
 end
