@@ -58,48 +58,67 @@ fi:
 
     p1: "Ruotsin kielen opettajan ja peruskouluopettajan tutkintojeni myötä olen monen vuoden ajan pohtinut oppimista ja sitä, miten opimme parhaiten."
     p2: "Kun tunnemme olomme harmoniseksi ja iloiseksi, unohdamme oppimistilanteen ja opimme paremmin. Opettajan tärkein tehtävä onkin mielestäni luoda aisteja herättävä ympäristö ja hyvä tunnelma luokassa, joka kutsuu jokaisessa esiin kyvyn heittäytyä tilanteeseen."
-    p3: "Tätä nykyä toimin suggestopedisena opettajana. Olen opiskellut professori Lozanovin johdolla, jonka myötä minulla on pätevyys myös jatkokouluttaa opettajia. Koulutan Suggestopediakademissa yhdessä kollegojeni Anna Cramérin ja Lonny Goldin kanssa. Suggestopediakademin on pieni järjestö, jossa jatkokoulutetaan opettajia sekä Suomessa että Ruotsissa."
+    p3: "Tätä nykyä toimin suggestopedisena opettajana. Olen opiskellut professori Lozanovin johdolla, jonka myötä minulla on pätevyys myös jatkokouluttaa opettajia. Koulutan kieltenopettajia kollegani Anna Cramérin kanssa. Me jatkokoulutetaan opettajia Suomessa, Ruotsissa ja Norjassa."
     p4: "Asun Etelä-Suomessa mutta järjestän kursseja joka puolella Suomea, Ruotsia ja Norjaa."
-    p5: "Tällä hetkellä toimin ruotsin opettajana Västra Nylands folkhögskolanissa kotikaupungissani Karjaalla."
+    p5: "Tällä hetkellä toimin ruotsin opettajana kansalaisopistossa kotikaupungissani Karjaalla."
 
   links:
     h1: "Linkkejä"
     h2: "Kielenhuoltoa"
+
+    h2_l1: "Kotimaisten kielten keskus"
+    h2_l2: "Svenska språkrådet"
+    
     h3: "Kasvatusopillisia sivustoja"
+
+    h3_l1: "Oppimistavat"
+    h3_l2: "Lärstilar"
+    h3_l3: "Multipla intelligenser"
+    h3_l4: "Barbara Prashnig"
+    h3_l5: "Bli suggestopedilärare"
+
     h4: "Keskusteluryhmiä"
+
+    h4_l1: "Svenska listan"
+    h4_l2: "Swedish group"
+    h4_l3: "Vi studerar svenska"
+
     h5: "Sanastoja"
+
+    h5_l1: "Lexin"
+    h5_l2: "Lexin - Bildteman"
+    h5_l3: "Sanakirja ruotsi-suomi-ruotsi"
+    
     h6: "Linkkikokoelmia"
+
+    h6_l1: "En länksamling för sfi"
+    h6_l2: "Inkerin linkkikokoelma"
+    h6_l3: "Länkskafferiet"
+    h6_l4: "Språknäts länksamling"
+
     h7: "Kollegani"
+
+    h7_l1: "Alla Sinnen, Sverige"
+    h7_l2: "Lonny Gold"
+    h7_l3: "Senja opettaa sinulle ruotsia"
+    h7_l4: "Galimatias"
+    h7_l5: "Bildningsalliansen"
+
     h8: "Työpaikkani"
+
+    h8_l1: "Raaseporin kansalaisopisto"
+
     h9: "Tärkeimmät harrastukseni"
 
-    l1: "Kotimaisten kielten keskus"
-    l2: "Svenska språkrådet"
-    l3: "Oppimistavat"
-    l4: "Lärstilar"
-    l5: "Multipla intelligenser"
-    l6: "Barbara Prashnig"
-    l7: "Svenska listan"
-    l8: "Swedish group"
-    l9: "Vi studerar svenska"
-    l10: "Lexin"
-    l11: "Bildlexikon"
-    l12: "Sanakirja ruotsi-suomi-ruotsi"
-    l13: "En länksamling för sfi"
-    l14: "Inkerin linkkikokoelma"
-    l15: "Alla Sinnen, Sverige"
-    l16: "Lonny Gold"
-    l17: "Senja opettaa sinulle ruotsia"
-    l18: "Galimatias"
-    l19: "Västra Nylands folkhögskola"
-    l19_1: "opi ruotsia"
-    l19_2: "opi suomea"
-    l20: "Scrabbleförbundet"
-    l21: "Betapet"
+    h9_l1: "Scrabbleförbundet"
+    h9_l2: "Betapet"
+    
+    h10: "Opettajiensivuja"
 
-    l19_name: "www.vnf.fi/aloitussivu"
-    l19_1_name: "www.vnf.fi/opintolinjat/ruotsia-ruotsiksi"
-    l19_2_name: "www.vnf.fi/opintolinjat/vuosi-suomeksi"
+    h10_l1: "Lättläst - selkoruotsia"
+    h10_l2: "Lärarbank - The Language Menu"
+    h10_l3: "Kasvatusopillisia vinkkejä"
+    h10_l5: "lektion.se"
 
   footer:
     f1: "Sertifioitu ruotsinopettaja, suggestopedinen kieltenopetus"

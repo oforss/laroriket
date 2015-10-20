@@ -58,48 +58,67 @@ sv:
 
     p1: "Med en utbildning som lärare i svenska som främmande språk men också som grundskollärare i bakfickan har jag under många år funderat över inlärning och hur den sker när den är som bäst."
     p2: "Om man upplever harmoni och känner sig glad glömmer man bort att man befinner sig i en inlärningssituation och lär bättre. Därför tycker jag det viktigaste för en lärare är att skapa en stimulerande miljö och en god stämning i klassen och på så sätt locka fram spontaniteten hos var och en."
-    p3: "Numera är jag diplomerad suggestopedilärare och har gått i lära hos professor Lozanov för att även ha rätt att ge lärarfortbildningar. Detta gör jag tillsammans med mina kolleger Anna Cramér och Lonny Gold inom Suggestopediakademin, en liten organisation där vi fortbildar lärare både i Finland och i Sverige."
+    p3: "Numera är jag diplomerad suggestopedilärare och har gått i lära hos professor Lozanov för att även ha rätt att ge lärarfortbildningar. Detta gör jag tillsammans med min kollega Anna Cramér som driver Alla sinnen, ett utbildningscenter för suggestopedi och sensmotorisk träning."
     p4: "Jag bor i södra Finland men ger kurser i hela Finland, i Sverige och i Norge."
-    p5: "Just nu arbetar jag som lärare i svenska som främmande språk vid Västra Nylands folkhögsskola i min hemstad Karis."
+    p5: "Just nu arbetar jag som lärare i svenska som främmande språk vid Medborgarinstitutet Rasebord i min hemstad Karis."
 
   links:
     h1: "Länkar"
     h2: "Om språkvård"
+
+    h2_l1: "Institutet för de inhemska språken"
+    h2_l2: "Svenska språkrådet"
+
     h3: "Pedagogiska sajter"
+
+    h3_l1: "Vilken är din inlärningsstil?"
+    h3_l2: "Lärstilar"
+    h3_l3: "Multipla intelligenser"
+    h3_l4: "Barbara Prashnig"
+    h3_l5: "Bli suggestopedilärare"
+
     h4: "Diskussionsgrupper"
+
+    h4_l1: "Svenska listan"
+    h4_l2: "Swedish group"
+    h4_l3: "Vi studerar svenska"
+
     h5: "Ordlistor"
+
+    h5_l1: "Lexin"
+    h5_l2: "Lexin - Bildteman"
+    h5_l3: "Svensk-finsk-svensk ordbok"
+
     h6: "Länksamlingar"
+
+    h6_l1: "En länksamling för sfi"
+    h6_l2: "Inkeris länksamling"
+    h6_l3: "Länkskafferiet"
+    h6_l4: "Språknäts länksamling"
+
     h7: "Mina kolleger"
+
+    h7_l1: "Alla Sinnen, Sverige"
+    h7_l2: "Lonny Gold"
+    h7_l3: "Senja opettaa sinulle ruotsia"
+    h7_l4: "Galimatias"
+    h7_l5: "Bildningsalliansen"
+
     h8: "Min arbetsplats"
+
+    h8_l1: "Medborgarinstitutet Raseborg"
+
     h9: "Min främsta hobby"
 
-    l1: "Forskningscentralen för de inhemska språken"
-    l2: "Svenska språkrådet"
-    l3: "Vilken är din inlärningsstil?"
-    l4: "Lärstilar"
-    l5: "Multipla intelligenser"
-    l6: "Barbara Prashnig"
-    l7: "Svenska listan"
-    l8: "Swedish group"
-    l9: "Vi studerar svenska"
-    l10: "Lexin"
-    l11: "Bildlexikon"
-    l12: "Svensk-finsk-svensk ordbok"
-    l13: "En länksamling för sfi"
-    l14: "Inkeris länksamling"
-    l15: "Alla Sinnen, Sverige"
-    l16: "Lonny Gold"
-    l17: "Senja opettaa sinulle ruotsia"
-    l18: "Galimatias"
-    l19: "Västra Nylands folkhögskola"
-    l19_1: "lär dig svenska"
-    l19_2: "lär dig finska"
-    l20: "Scrabbleförbundet"
-    l21: "Betapet"
+    h9_l1: "Scrabbleförbundet"
+    h9_l2: "Betapet"
 
-    l19_name: "www.vnf.fi/forsta-sidan/"
-    l19_1_name: "www.vnf.fi/studier/ruotsia-ruotsiksi/"
-    l19_2_name: "www.vnf.fi/studier/ett-ar-pa-finska/"
+    h10: "Lärarsajter"
+
+    h10_l1: "Lättlästa nyheter"
+    h10_l2: "Lärarbank - The Language Menu"
+    h10_l3: "Pedagogiska tips"
+    h10_l5: "lektion.se"
 
   footer:
     f1: "Diplomerad suggestopedilärare i svenska"

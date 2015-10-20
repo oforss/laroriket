@@ -38,11 +38,7 @@ Laroriket.helpers do
     return slogans[rand(slogans.length)]
   end
 
-  def swap_language
-    if I18n.locale == :sv
-      I18n.locale = :fi
-    else
-      I18n.locale = :sv
-    end
+  def get_locale
+    return params[:l] || nil
   end
 end

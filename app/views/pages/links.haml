@@ -1,47 +1,57 @@
 %h2= t("links.h1")
 
-%br/
 %h3= t("links.h2")
-%p.link= link_to t("links.l1"), "http://www.kotus.fi/pasvenska"
-%p.link= link_to t("links.l2"), "http://www.sprakradet.se"
+%p.link= link_to t("links.h2_l1"), "http://www.sprakinstitutet.fi/sv"
+%p.link= link_to t("links.h2_l2"), "http://www.sprakradet.se"
 
 %br/
 %h3= t("links.h3")
-%p= t("links.l3")
+%p.link= link_to t("links.h3_l5"), "http://www.allasinnen.se/index.php?section=0&page=9"
+%p.link= t("links.h3_l1")
 %ul
-  %li.link= link_to t("links.l4"), "http://www.learnify.se/Learnifyer/ObjectResources/6bc5dbb6-1900-4f04-8f25-764d8d6e9cdd/Studieteknik/larstil.htm"
-  %li.link= link_to t("links.l5"), "http://multiplaintelligenser.se/"
-  %li.link= link_to t("links.l6"), "http://www.creativelearningcentre.com/"
+  %li= link_to t("links.h3_l2"), "http://www.learnify.se/Learnifyer/ObjectResources/6bc5dbb6-1900-4f04-8f25-764d8d6e9cdd/Studieteknik/larstil.htm"
+  %li= link_to t("links.h3_l3"), "http://multiplaintelligenser.se/"
+  %li= link_to t("links.h3_l4"), "http://www.creativelearningcentre.com/"
+
+%br/
+%h3= t("links.h10")
+%p.link= link_to t("links.h10_l1"), "http://lattlast.se/?page=5/"
+%p.link= link_to t("links.h10_l2"), "http://www.thelanguagemenu.com/tlm/tlm?cmd=page&p=home-page&pp=0"
+%p.link= link_to t("links.h10_l3"), "https://svenskaspraket.si.se/for-larare/pedagogiska-tips/"
+%p.link= link_to t("links.h10_l5"), "http://www.lektion.se/"
 
 %br/
 %h3= t("links.h4")
-%p.link= link_to t("links.l7"), "http://groups.yahoo.com/group/svenskalistan/"
-%p.link= link_to t("links.l8"), "http://groups.yahoo.com/group/Swedish_Group/"
-%p.link= link_to t("links.l9"), "http://groups.yahoo.com/group/Vi-studerar-svenska/"
+%p.link= link_to t("links.h4_l1"), "http://groups.yahoo.com/group/svenskalistan/"
+%p.link= link_to t("links.h4_l2"), "http://groups.yahoo.com/group/Swedish_Group/"
+%p.link= link_to t("links.h4_l3"), "http://groups.yahoo.com/group/Vi-studerar-svenska/"
 
 %br/
 %h3= t("links.h5")
-%p.link= link_to t("links.l10"), "http://lexin2.nada.kth.se/lexin/"
-%p.link= link_to t("links.l11"), "http://lexin2.nada.kth.se/lexin/#main=1;themes=1;"
-%p.link= link_to t("links.l12"), "http://ilmainensanakirja.fi/sanakirja_ruotsi-suomi/"
+%p.link= link_to t("links.h5_l1"), "http://lexin2.nada.kth.se/lexin/"
+%p.link= link_to t("links.h5_l2"), "http://lexin2.nada.kth.se/lexin/#main=1;themes=1;"
+%p.link= link_to t("links.h5_l3"), "http://ilmainensanakirja.fi/sanakirja_ruotsi-suomi/"
 
 %br/
 %h3= t("links.h6")
-%p.link= link_to t("links.l13"), "http://www.kreativpedagogik.se"
-%p.link= link_to t("links.l14"), "http://www.kolumbus.fi/inkeri.rissanen/"
+%p.link= link_to t("links.h6_l1"), "http://www.kreativpedagogik.se"
+%p.link= link_to t("links.h6_l2"), "http://www.kolumbus.fi/inkeri.rissanen/"
+%p.link= link_to t("links.h6_l3"), "http://www.lankskafferiet.org/"
+%p.link= link_to t("links.h6_l4"), "http://users.utu.fi/inorri/snlinkit/"
 
 %br/
 %h3= t("links.h7")
-%p.link= link_to t("links.l15"), "http://www.allasinnen.se/index.php?section=0&page=1"
-%p.link= link_to t("links.l16"), "http://lonnygold.com/"
-%p.link= link_to t("links.l17"), "http://fi-fi.facebook.com/Senjaopettaa"
-%p.link= link_to t("links.l18"), "http://www.galimatias.fi"
+%p.link= link_to t("links.h7_l1"), "http://www.allasinnen.se/index.php?section=0&page=1"
+%p.link= link_to t("links.h7_l2"), "http://lonnygold.com/"
+%p.link= link_to t("links.h7_l3"), "http://fi-fi.facebook.com/Senjaopettaa"
+%p.link= link_to t("links.h7_l4"), "http://www.galimatias.fi"
+%p.link= link_to t("links.h7_l5"), "http://www.bildningsalliansen.fi/"
 
 %br/
 %h3= t("links.h8")
-%p.link= "#{link_to t("links.l19"), t("links.l19_name")} (#{link_to t("links.l19_1"), t("links.l19_1_name")}/#{link_to t("links.l19_2"), t("links.l19_2_name")})"
+%p.link= link_to t("links.h8_l1"), "http://www.raseborg.fi/mbi/"
 
 %br/
 %h3= t("links.h9")
-%p.link= link_to "Scrabbleförbundet", "http://www.scrabbleforbundet.se"
-%p.link= link_to "Betapet", "http://www.betapet.se"
+%p.link= link_to t("links.h9_l1"), "http://www.scrabbleforbundet.se"
+%p.link= link_to t("links.h9_l2"), "http://www.betapet.se"

@@ -26,7 +26,8 @@
 # override these settings in the subapps as needed.
 #
 Padrino.configure_apps do
-  # enable :sessions
+  enable :sessions
+  I18n.default_locale = :sv
   set :session_secret, '2fd423ee22f8c9f197da01aa6d4754e9272fa93a91c987635e1f81c202b2ff05'
 end
 

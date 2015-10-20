@@ -4,4 +4,6 @@ tmp/**/*
 bin/*
 vendor/gems/*
 !vendor/gems/cache/
+.dropbox
 .sass-cache/*
+desktop.ini
