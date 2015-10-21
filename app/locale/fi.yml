@@ -7,7 +7,7 @@ fi:
     lang: "på svenska"
 
   index:
-    h1: "Läroriket – Oppimisen valtakunta"
+    h1: 'Läroriket – "Oppimisen valtakunta"'
     h2: "Lärorikt – Opettavaista"
 
     p1_1: "sinulle, joka haluat oppia ruotsia nopeasti ja vaivattomasti"
@@ -119,6 +119,7 @@ fi:
     h10_l2: "Lärarbank - The Language Menu"
     h10_l3: "Kasvatusopillisia vinkkejä"
     h10_l5: "lektion.se"
+    h10_l6: "Kielikahvila"
 
   footer:
     f1: "Sertifioitu ruotsinopettaja, suggestopedinen kieltenopetus"
