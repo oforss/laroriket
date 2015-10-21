@@ -13,11 +13,9 @@ Laroriket.controller do
   get(:links)   { render "pages/links" }
   get(:courses) { render "pages/courses" }
   get(:suomeksi) do
-    back[-2..-1] == "fi" ? f = false : f = true
-    
+    back[-2..-1] == "fi" ? f = false : f = true    
     newBack = back.split("?")[0]
     if(f == true) then newBack += "?l=fi" end
-
     redirect newBack
   end
 end
